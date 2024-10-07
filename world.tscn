@@ -1,9 +1,0 @@
-[gd_scene load_steps=2 format=3 uid="uid://brw5f6710avbw"]
-
-[ext_resource type="Script" path="res://world.cs" id="1_wpiwg"]
-
-[node name="World" type="Node2D"]
-script = ExtResource("1_wpiwg")
-
-[node name="TileMap" type="TileMap" parent="."]
-format = 2
